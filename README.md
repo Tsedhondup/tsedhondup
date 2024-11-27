@@ -6,7 +6,7 @@
 
 - 🌱 Software Engineering Graduate, BrainStation, Toronto
 
-- 📫 How to reach me **tyddhondup88@gmail.com**
+- 📫 How to reach me **tsering.dhondup.ca@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
